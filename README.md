@@ -1,4 +1,4 @@
 Sherpa
 ======
 
-Sherpa Mod
+Sherpa Mod by asolitarywolf
